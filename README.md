@@ -9,7 +9,8 @@ WF-CTF-Tools
 ## tools list (not in repo)
 | Category | Tool | Description |
 |----------|------|-------------|
-| crypto | [xortool](https://github.com/hellman/xortool) |  |
+| crypto | [xortool](https://github.com/hellman/xortool) | analyze multi-byte xor cipher |
+| pwnable | [one-gadget](https://github.com/david942j/one_gadget) | easy to find the one gadget RCE in libc.so.6 |
     
 
 
