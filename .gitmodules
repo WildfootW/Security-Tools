@@ -1,0 +1,3 @@
+[submodule "Pwngdb"]
+	path = Pwngdb
+	url = https://github.com/Wildfoot/Pwngdb.git
