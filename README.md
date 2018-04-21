@@ -1,4 +1,4 @@
-WF-CTF-Tools
+WF Capture-The-Flag Tools
 ===
 
 ## tools list (in repo)
