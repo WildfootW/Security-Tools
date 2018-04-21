@@ -10,6 +10,7 @@ WF-CTF-Tools
 | Category | Tool | Description |
 |----------|------|-------------|
 | Misc | [pkcrack]() |  |
+| Misc | [stegsolve]() | solve image problem |
 | Misc | [dex2jar](https://github.com/pxb1988/dex2jar) | Tools to work with android .dex and java .class files |
 | web | [sqlmap](https://github.com/sqlmapproject/sqlmap) |  |
 | web | [Burp]() |  |
