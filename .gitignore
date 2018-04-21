@@ -1,6 +1,11 @@
 # Temp file
 *.swp
 
+# install file
+bin/
+xortool/xortool/
+ROPgadget/ROPgadget/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
