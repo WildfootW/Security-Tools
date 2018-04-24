@@ -6,6 +6,7 @@ bin/
 xortool/xortool/
 ROPgadget/ROPgadget/
 BurpSuite/
+Interactive-Disassembler-pro_Hex-Rays-Decompiler/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
