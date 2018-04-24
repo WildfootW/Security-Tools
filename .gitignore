@@ -5,7 +5,9 @@
 bin/
 xortool/xortool/
 ROPgadget/ROPgadget/
-BurpSuite/
+Burp-Suite/
+apktool/
+pkcrack/
 Interactive-Disassembler-pro_Hex-Rays-Decompiler/
 
 # Byte-compiled / optimized / DLL files
