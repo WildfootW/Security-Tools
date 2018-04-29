@@ -12,6 +12,7 @@ WF Capture-The-Flag Tools
 | Misc | [pkcrack]() |  |
 | Misc | [stegsolve]() | solve image problem |
 | Misc | [dex2jar](https://github.com/pxb1988/dex2jar) | Tools to work with android .dex and java .class files |
+| Misc | [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI |
 | web | [sqlmap](https://github.com/sqlmapproject/sqlmap) |  |
 | web | [Burp]() |  |
 | web | [OWASP Mantra](https://www.owasp.org/index.php/Main_Page) | Open Web Application Security Project (firefox plugin) |
