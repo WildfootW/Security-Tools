@@ -1,5 +1,6 @@
 # Temp file
 *.swp
+.gdb_history
 
 # install file
 bin/
