@@ -6,5 +6,5 @@
 #
 
 sudo apt-get install ruby-dev
-gem install one_gadget
+sudo gem install one_gadget
 
