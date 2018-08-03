@@ -16,3 +16,6 @@
 [submodule "jadx"]
 	path = jadx
 	url = https://github.com/skylot/jadx.git
+[submodule "firmware-mod-kit"]
+	path = firmware-mod-kit
+	url = https://github.com/rampageX/firmware-mod-kit.git
