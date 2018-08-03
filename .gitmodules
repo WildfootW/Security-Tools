@@ -13,3 +13,6 @@
 [submodule "weirdAAL"]
 	path = weirdAAL
 	url = https://github.com/carnal0wnage/weirdAAL.git
+[submodule "jadx"]
+	path = jadx
+	url = https://github.com/skylot/jadx.git
