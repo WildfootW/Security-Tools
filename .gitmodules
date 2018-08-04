@@ -19,3 +19,6 @@
 [submodule "firmware-mod-kit"]
 	path = firmware-mod-kit
 	url = https://github.com/rampageX/firmware-mod-kit.git
+[submodule "radare2"]
+	path = radare2
+	url = https://github.com/radare/radare2.git
