@@ -11,18 +11,13 @@ SCRIPT=$(readlink -f "$0")
 SCRIPTPATH=$(dirname "$SCRIPT")
 
 if [ "$1" = "" ]; then
-    echo "usage: ./install [IDA-folder-name]"
+    echo "usage: ./install [Burp-folder/jar]"
     exit
 fi
 
-IDA_folder="$SCRIPTPATH/$1"
+Burp_jar="$SCRIPTPATH/$1"
 BIN_folder="$SCRIPTPATH/../bin/"
 
-chmod 755 "$IDA_folder/idaq.exe"
-chmod 755 "$IDA_folder/idaq64.exe"
+echo "java -jar $Burp_jar" > "$BIN_folder/Burp-Suite"
 
-echo "$IDA_folder/idaq.exe" > "$BIN_folder/ida-x86"
-echo "$IDA_folder/idaq64.exe" > "$BIN_folder/ida-x64"
-
-chmod 755 "$BIN_folder/ida-x86"
-chmod 755 "$BIN_folder/ida-x64"
+chmod 755 "$BIN_folder/Burp-Suite"

@@ -1,9 +1,6 @@
 [submodule "Pwngdb"]
 	path = Pwngdb
-	url = https://github.com/Wildfoot/Pwngdb.git
-[submodule "pwndbg"]
-	path = pwndbg
-	url = git@github.com:WildfootW/pwndbg.git
+	url = git@github.com:WildfootW/Pwngdb.git
 [submodule "AWSBucketDump"]
 	path = AWSBucketDump
 	url = https://github.com/jordanpotti/AWSBucketDump.git
