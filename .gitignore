@@ -4,6 +4,7 @@
 
 # install file
 bin/
+Pwngdb/Pwngdb/
 xortool/xortool/
 ROPgadget/ROPgadget/
 Interactive-Disassembler-pro_Hex-Rays-Decompiler/
