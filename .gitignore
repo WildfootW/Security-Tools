@@ -11,6 +11,7 @@ apktool/
 Interactive-Disassembler-pro_Hex-Rays-Decompiler/
 dex2jar/
 sqlmap/sqlmap/
+AWSBucketDump/AWSBucketDump/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
