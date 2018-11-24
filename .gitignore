@@ -10,6 +10,7 @@ Burp-Suite/
 apktool/
 Interactive-Disassembler-pro_Hex-Rays-Decompiler/
 dex2jar/
+sqlmap/sqlmap/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

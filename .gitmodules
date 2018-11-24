@@ -22,6 +22,3 @@
 [submodule "libc-database"]
 	path = libc-database
 	url = https://github.com/niklasb/libc-database.git
-[submodule "sqlmap/sqlmap"]
-	path = sqlmap/sqlmap
-	url = https://github.com/sqlmapproject/sqlmap.git
