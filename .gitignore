@@ -6,12 +6,18 @@
 bin/
 xortool/xortool/
 ROPgadget/ROPgadget/
-Burp-Suite/
-apktool/
 Interactive-Disassembler-pro_Hex-Rays-Decompiler/
-dex2jar/
 sqlmap/sqlmap/
 AWSBucketDump/AWSBucketDump/
+Sublist3r/Sublist3r/
+weirdAAL/weirdAAL/
+jadx/jadx/
+firmware-mod-kit/firmware-mod-kit/
+radare2/radare2/
+libc-database/libc-database/
+Burp-Suite/
+apktool/
+dex2jar/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

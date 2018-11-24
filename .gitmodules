@@ -1,21 +1,3 @@
 [submodule "Pwngdb"]
 	path = Pwngdb
 	url = git@github.com:WildfootW/Pwngdb.git
-[submodule "Sublist3r"]
-	path = Sublist3r
-	url = https://github.com/aboul3la/Sublist3r.git
-[submodule "weirdAAL"]
-	path = weirdAAL
-	url = https://github.com/carnal0wnage/weirdAAL.git
-[submodule "jadx"]
-	path = jadx
-	url = https://github.com/skylot/jadx.git
-[submodule "firmware-mod-kit"]
-	path = firmware-mod-kit
-	url = https://github.com/rampageX/firmware-mod-kit.git
-[submodule "radare2"]
-	path = radare2
-	url = https://github.com/radare/radare2.git
-[submodule "libc-database"]
-	path = libc-database
-	url = https://github.com/niklasb/libc-database.git
