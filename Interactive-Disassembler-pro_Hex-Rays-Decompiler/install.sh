@@ -21,8 +21,8 @@ BIN_folder="$SCRIPTPATH/../bin/"
 chmod 755 "$IDA_folder/idaq.exe"
 chmod 755 "$IDA_folder/idaq64.exe"
 
-echo "$IDA_folder/idaq.exe" > "$BIN_folder/ida-x86"
-echo "$IDA_folder/idaq64.exe" > "$BIN_folder/ida-x64"
+echo "wine $IDA_folder/idaq.exe" > "$BIN_folder/ida-x86"
+echo "wine $IDA_folder/idaq64.exe" > "$BIN_folder/ida-x64"
 
 chmod 755 "$BIN_folder/ida-x86"
 chmod 755 "$BIN_folder/ida-x64"
