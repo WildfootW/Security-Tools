@@ -31,6 +31,7 @@ WF Capture-The-Flag Tools
 | [DVWA](https://github.com/ethicalhack3r/DVWA) ||
 | [PentesterLab](https://pentesterlab.com/) ||
 | [OWASP](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) ||
+| [bWAPP](http://www.itsecgames.com/) ||
 
 ## References
 * https://github.com/SLMT/ctf-tools
