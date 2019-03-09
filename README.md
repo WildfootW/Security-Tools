@@ -1,5 +1,4 @@
-WF Capture-The-Flag Tools
-===
+# WF Capture-The-Flag Tools
 
 ## tools list (in repo)
 | Category | Tool | Description / Reference |
