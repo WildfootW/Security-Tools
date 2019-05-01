@@ -18,6 +18,4 @@ fi
 Burp_jar="$SCRIPTPATH/$1"
 BIN_folder="$SCRIPTPATH/../bin/"
 
-echo "java -jar $Burp_jar" > "$BIN_folder/Burp-Suite"
-
 chmod 755 "$BIN_folder/Burp-Suite"
