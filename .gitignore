@@ -6,6 +6,7 @@
 bin/
 Pwngdb/Pwngdb/
 nikto/nikto/
+exploitdb/exploitdb/
 xortool/xortool/
 ROPgadget/ROPgadget/
 Interactive-Disassembler-pro_Hex-Rays-Decompiler/

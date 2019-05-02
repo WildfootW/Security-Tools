@@ -14,10 +14,12 @@
 | Misc | [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI |
 | Misc | [mimikatz](https://github.com/gentilkiwi/mimikatz) | Extract plaintexts passwords, hash, PIN code and kerberos tickets from memory |
 | Misc | [MASSCAN](https://github.com/robertdavidgraham/masscan) | Mass IP port scanner |
+| Misc | [exploitdb](https://github.com/offensive-security/exploitdb) | Exploit Database repository |
 | web | [sqlmap](https://github.com/sqlmapproject/sqlmap) |  |
 | web | [Burp]() |  |
 | web | [OWASP Mantra](https://www.owasp.org/index.php/Main_Page) | Open Web Application Security Project (firefox plugin) |
 | web | [PHPGGC](https://github.com/ambionics/phpggc) | PHP Generic Gadget Chains |
+| web | [nikto](https://github.com/sullo/nikto) | web server scanner |
 | reverse | [binwalk](https://github.com/ReFirmLabs/binwalk) | analyzing, reverse engineering, and extracting firmware images |
 | crypto | [xortool](https://github.com/hellman/xortool) | analyze multi-byte xor cipher |
 | crypto | [HashPump](https://github.com/bwall/HashPump) | exploit the hash length extension attack in various hashing algorithms |
