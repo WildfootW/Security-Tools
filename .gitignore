@@ -21,6 +21,7 @@ libc-database/libc-database/
 Burp-Suite/
 apktool/
 dex2jar/
+hashcat/hashcat*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -15,6 +15,7 @@
 | Misc | [mimikatz](https://github.com/gentilkiwi/mimikatz) | Extract plaintexts passwords, hash, PIN code and kerberos tickets from memory |
 | Misc | [MASSCAN](https://github.com/robertdavidgraham/masscan) | Mass IP port scanner |
 | Misc | [exploitdb](https://github.com/offensive-security/exploitdb) | Exploit Database repository |
+| Misc | [hashcat](https://github.com/hashcat/hashcat) | Password recovery utility |
 | web | [sqlmap](https://github.com/sqlmapproject/sqlmap) |  |
 | web | [Burp]() |  |
 | web | [OWASP Mantra](https://www.owasp.org/index.php/Main_Page) | Open Web Application Security Project (firefox plugin) |
