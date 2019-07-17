@@ -21,6 +21,7 @@
 | web | [OWASP Mantra](https://www.owasp.org/index.php/Main_Page) | Open Web Application Security Project (firefox plugin) |
 | web | [PHPGGC](https://github.com/ambionics/phpggc) | PHP Generic Gadget Chains |
 | web | [nikto](https://github.com/sullo/nikto) | web server scanner |
+| web | [dirb](https://tools.kali.org/web-applications/dirb) | Web Content Scanner |
 | reverse | [binwalk](https://github.com/ReFirmLabs/binwalk) | analyzing, reverse engineering, and extracting firmware images |
 | crypto | [xortool](https://github.com/hellman/xortool) | analyze multi-byte xor cipher |
 | crypto | [HashPump](https://github.com/bwall/HashPump) | exploit the hash length extension attack in various hashing algorithms |
