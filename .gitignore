@@ -22,6 +22,8 @@ Burp-Suite/
 apktool/
 dex2jar/
 hashcat/hashcat*
+Local-File-Inclusion-Scanner/Local-File-Inclusion-Scanner/
+patator/patator/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
