@@ -11,3 +11,7 @@ SCRIPT=$(readlink -f "$0")
 SCRIPTPATH=$(dirname "$SCRIPT")
 
 git clone git@github.com:WildfootW/oh-my-gdb.git
+cd ./oh-my-gdb
+./install.sh
+
+cp "$SCRIPTPATH/oh-my-gdb/bin/"* "$SCRIPTPATH/../bin/"
