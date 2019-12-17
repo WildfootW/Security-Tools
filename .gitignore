@@ -4,7 +4,7 @@
 
 # install file
 bin/
-Pwngdb/Pwngdb/
+oh-my-gdb/oh-my-gdb/
 nikto/nikto/
 exploitdb/exploitdb/
 xortool/xortool/

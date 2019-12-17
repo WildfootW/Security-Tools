@@ -10,4 +10,4 @@ SCRIPT=$(readlink -f "$0")
 # Absolute path this script is in, thus /home/user/Pwngdb
 SCRIPTPATH=$(dirname "$SCRIPT")
 
-git clone git@github.com:WildfootW/Pwngdb.git
+git clone git@github.com:WildfootW/oh-my-gdb.git
